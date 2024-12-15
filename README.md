@@ -13,7 +13,7 @@ __________
 
 Please, see [model_exploration](https://github.com/jafiorote/ga_error_sources/tree/master/ga_error_sources/notebooks/model_exploration.ipynb) notebook for examples and details on how to run the code.
 
-### Authors
+### Author
 
 - [@jafiorote](https://www.github.com/jafiorote) - jafiorote@gmail.com
 
